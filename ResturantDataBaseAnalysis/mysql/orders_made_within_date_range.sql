@@ -1,0 +1,1 @@
+select count(distinct order_id) from order_details;

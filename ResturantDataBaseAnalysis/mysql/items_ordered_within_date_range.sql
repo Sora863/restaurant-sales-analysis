@@ -1,0 +1,1 @@
+select count(*) from order_details;
